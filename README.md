@@ -1,2 +1,2 @@
 # analogsea
-Simple HTML form
+Simple HTML form styled with CSS
